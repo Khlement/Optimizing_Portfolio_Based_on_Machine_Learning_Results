@@ -5,12 +5,6 @@ Machine learning code to optimize an investment portfolio. It uses historical fi
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/investment-portfolio-optim.svg?color=blue&cachedrop">
 </a>
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/21691211/155658959-cfd8f6cf-2baa-4a6a-afa8-274e7eddb3fd.png">
-</p>
-
-
 ##Model development
 ### Data
 **Top 30 U.S. companies by market capitalization** are used. 
@@ -35,6 +29,10 @@ LSTM model **parameters:**
 - - `loss_function=MSELoss()`
 - `num_epochs=10000`
 ***GPU** is leveraged.*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/21691211/155658959-cfd8f6cf-2baa-4a6a-afa8-274e7eddb3fd.png">
+</p>
 
 ## <a href="https://github.com/georgemuriithi/investment-portfolio-optim/blob/main/Investment-Portfolio-Optimization.ipynb">Solution Approach</a>
 <a href="https://colab.research.google.com/drive/1Rd7xhUgp3OQO5u-bGqIT4cb29zJvWeXG?usp=sharing">
