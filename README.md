@@ -5,7 +5,7 @@ Machine learning code to optimize an investment portfolio. It uses historical fi
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/investment-portfolio-optim.svg?color=blue&cachedrop">
 </a>
 
-##Model development
+## Model development
 ### Data
 **Top 30 U.S. companies by market capitalization** are used. 
 
