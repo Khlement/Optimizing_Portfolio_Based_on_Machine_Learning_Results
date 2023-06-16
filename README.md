@@ -1,10 +1,6 @@
 # Optimizing Portfolio Based on Machine Learning Results
 Machine learning code to optimize an investment portfolio. It uses historical financial data to train a machine learning model(a Long Short-Term Memory (LSTM) model) to predict the future returns of various stocks. Based on these predictions, the code then calculates an optimized portfolio allocation that maximizes returns while minimizing risk. The purpose of this code is to provide investors with a tool to make data-driven decisions about their investments and improve the overall performance of their portfolio.
 
-<a href="https://github.com/georgemuriithi/investment-portfolio-optim/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/investment-portfolio-optim.svg?color=blue&cachedrop">
-</a>
-
 ## Model development
 ### Data
 **Top 30 U.S. companies by market capitalization** are used. 
