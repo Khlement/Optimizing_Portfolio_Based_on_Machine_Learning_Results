@@ -30,8 +30,7 @@ LSTM model **parameters:**
   <img src="https://user-images.githubusercontent.com/21691211/155658959-cfd8f6cf-2baa-4a6a-afa8-274e7eddb3fd.png">
 </p>
 
-## <a href="https://github.com/georgemuriithi/investment-portfolio-optim/blob/main/Investment-Portfolio-Optimization.ipynb">Solution Approach</a>
-<a href="https://colab.research.google.com/drive/1Rd7xhUgp3OQO5u-bGqIT4cb29zJvWeXG?usp=sharing">
+<a href="https://colab.research.google.com/drive/1oxsIXTlB4BSFx79XcHWNcpGPviqFZtVX?usp=sharing">
     <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
 </a>
 
